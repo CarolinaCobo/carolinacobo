@@ -1,6 +1,6 @@
 ### Hola! I'm Carolina<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90px"> 
 
-If you want to get in touch you have a few places where you can contact me 
+If you want to get in touch:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/carolina-cobo/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ccobo.medium.com/)
