@@ -1,7 +1,7 @@
 ### Hola! I'm Carolina<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90px"> 
 
 #### I'm a Full Stack Web Developer. Originally from Spain 🇪🇸 currently based in Dublin, Ireland 🇮🇪 .
--🕵🏻‍ I currently work as Technical Sourcer at MongoDB 🍃 while I'm learning code.
+- 🕵🏻‍ I currently work as Technical Sourcer at MongoDB 🍃 while I'm learning code.
 - 🌱 I’m currently learning Full Stack Development (**Python**, **Django** and **Databases**).
 - 🤔 Next I'm going to learn is **React** and **PHP**.
 
