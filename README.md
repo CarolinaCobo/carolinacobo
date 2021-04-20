@@ -44,3 +44,11 @@ If you want to get in touch:
 ## 📈 Stats
 
 ![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinacobo&theme=omni&show_icons=true)
+
+## 😎 Here you have some of recent my projects: 
+
+- [Puppy Rush](https://carolinacobo.github.io/puppy-rush/)
+- [Portfolio](https://carolinacobo.github.io/portfolio/)
+- [Carol's Kitchen](https://carolinacobo.github.io/CarolsKitchen/)
+
+
