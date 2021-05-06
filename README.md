@@ -49,7 +49,7 @@ If you want to get in touch:
 ## 😎 Here you have some of recent my projects: 
 
 - [Puppy Rush](https://carolinacobo.github.io/puppy-rush/)
-- [Portfolio](carolinacobo.com)
+- [Portfolio](https://www.carolinacobo.com/)
 - [Carol's Kitchen](https://carolinacobo.github.io/CarolsKitchen/)
 
 
