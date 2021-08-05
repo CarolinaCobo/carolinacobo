@@ -1,7 +1,7 @@
 ### ¡Hola! I'm Carolina<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90px"> 
 
 #### I'm a Full Stack Web Developer. Originally from Spain 🇪🇸 currently based in Dublin, Ireland 🇮🇪 .
-- 🕵🏻‍ I currently work as Technical Sourcer at MongoDB 🍃 while I'm learning how to code.
+- 🕵🏻‍ I currently work as Technical Recruiter at MongoDB 🍃 while I'm learning how to code.
 - 🌱 I’m currently learning Full Stack Development (**Python**, **Django** and **Databases**).
 - 🤔 Next I'm going to learn is **React** and **PHP**.
 
@@ -48,6 +48,7 @@ If you want to get in touch:
 
 ## 😎 Here you have some of recent my projects: 
 
+- [La Biblioteca](https://la-biblioteca-ms3.herokuapp.com/)
 - [Puppy Rush](https://carolinacobo.github.io/puppy-rush/)
 - [Portfolio](https://www.carolinacobo.com/)
 - [Carol's Kitchen](https://carolinacobo.github.io/CarolsKitchen/)
