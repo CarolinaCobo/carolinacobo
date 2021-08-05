@@ -31,7 +31,7 @@ If you want to get in touch:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 
-#### 📖  Databases (In progress)
+#### 📖  Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 
@@ -42,7 +42,7 @@ If you want to get in touch:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) 
 
-**In progress**
+#### In progress
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900) 
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
 
