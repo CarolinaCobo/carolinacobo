@@ -3,7 +3,7 @@
 #### I'm a Full Stack Web Developer. Originally from Spain 🇪🇸 currently based in Dublin, Ireland 🇮🇪 .
 - 🕵🏻‍ I currently work as Technical Recruiter at MongoDB 🍃 while I'm learning how to code.
 - 🌱 I’m currently learning Full Stack Development (**Python**, **Django** and **Databases**).
-- 🤔 Next I'm going to learn is **React** and **PHP**.
+- 🤔 Next I'm going to learn is **React** 
 
 If you want to get in touch:
 
@@ -43,6 +43,7 @@ If you want to get in touch:
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) 
 
 #### In progress
+![React](https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=CCC)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900) 
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
 
