@@ -3,7 +3,7 @@
 #### I'm a Full Stack Web Developer. Originally from Spain 🇪🇸 currently based in Dublin, Ireland 🇮🇪 .
 - 🕵🏻‍ I currently work as Technical Recruiter at MongoDB 🍃 while I'm learning how to code.
 - 🌱 I’m currently learning Full Stack Development (**Python**, **Django** and **Databases**).
-- 🤔 Next I'm going to learn is **React** 
+- 🤔 Recently started to learn **React** 
 
 If you want to get in touch:
 
@@ -23,6 +23,7 @@ If you want to get in touch:
 
 
 #### 📚 Libraries and Frameworks
+![React](https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=CCC)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -43,7 +44,6 @@ If you want to get in touch:
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) 
 
 #### In progress
-![React](https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=CCC)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900) 
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
 
@@ -54,10 +54,10 @@ If you want to get in touch:
 ![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinacobo&theme=omni&show_icons=true)
 
 ## 😎 Here you have some of recent my projects: 
-
-- [La Biblioteca](https://la-biblioteca-ms3.herokuapp.com/)
+- [Hacker News Challenge](https://hacker-news-challenge.vercel.app/)
 - [Puppy Rush](https://carolinacobo.github.io/puppy-rush/)
 - [Portfolio](https://www.carolinacobo.com/)
+- [La Biblioteca](https://la-biblioteca-ms3.herokuapp.com/)
 - [Carol's Kitchen](https://carolinacobo.github.io/CarolsKitchen/)
 
 
