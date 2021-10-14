@@ -1,9 +1,9 @@
 ### ¡Hola! I'm Carolina<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90px"> 
 
 #### I'm a Full Stack Web Developer. Originally from Spain 🇪🇸 currently based in Dublin, Ireland 🇮🇪 .
-- 🕵🏻‍ I currently work as Technical Recruiter at MongoDB 🍃 while I'm learning how to code.
-- 🌱 I’m currently learning Full Stack Development (**Python**, **Django** and **Databases**).
-- 🤔 Recently started to learn **React** 
+- 🕵🏻‍ I'm working as Associate Front End Software Engineer in 
+- 🌱 Graduated in Full Stack Web Development Diploma by the Code Institute.
+- 🤔 Recently started to learn **React** and **TypeScript**
 
 If you want to get in touch:
 
@@ -16,9 +16,9 @@ If you want to get in touch:
 
 #### 🤓  Programming languages 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
@@ -42,11 +42,11 @@ If you want to get in touch:
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) 
-
-#### In progress
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900) 
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
 
+#### In progress
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 
 ---
 ## 📈 Stats
@@ -54,6 +54,7 @@ If you want to get in touch:
 ![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinacobo&theme=omni&show_icons=true)
 
 ## 😎 Here you have some of recent my projects: 
+- [Styx](https://styx-shoes.herokuapp.com/)
 - [Hacker News Challenge](https://hacker-news-challenge.vercel.app/)
 - [Puppy Rush](https://carolinacobo.github.io/puppy-rush/)
 - [Portfolio](https://www.carolinacobo.com/)
