@@ -1,7 +1,7 @@
 ### ¡Hola! I'm Carolina<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="90px"> 
 
 #### I'm a Full Stack Web Developer. Originally from Spain 🇪🇸 currently based in Dublin, Ireland 🇮🇪 .
-- 🕵🏻‍ I'm working as Associate Front End Software Engineer in 
+- 🕵🏻‍ I'm working as Associate Front End Software Engineer at Genesys.
 - 🌱 Graduated in Full Stack Web Development Diploma by the Code Institute.
 - 🤔 Recently started to learn **React** and **TypeScript**
 
