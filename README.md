@@ -54,6 +54,8 @@ If you want to get in touch:
 ![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinacobo&theme=omni&show_icons=true)
 
 ## 😎 Here you have some of recent my projects: 
+- [Jesus Cobo Portfolio](https://jesushcobo.com/)
+- [AnaSevMar Portfolio](https://www.anasevmar.com/)
 - [Styx](https://styx-shoes.herokuapp.com/)
 - [Hacker News Challenge](https://hacker-news-challenge.vercel.app/)
 - [Puppy Rush](https://carolinacobo.github.io/puppy-rush/)
