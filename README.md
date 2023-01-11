@@ -54,6 +54,8 @@ If you want to get in touch:
 ![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinacobo&theme=omni&show_icons=true)
 
 ## 😎 Here you have some of recent my projects: 
+- WIP [Lawyers in Spain](https://lazaro-y-garrido-vxd8-6e1tas02c-carolinacobo.vercel.app/)
+- [Wedding Site](https://lupita-and-max-wedding.vercel.app/)
 - [Jesus Cobo Portfolio](https://jesushcobo.com/)
 - [AnaSevMar Portfolio](https://www.anasevmar.com/)
 - [Styx](https://styx-shoes.herokuapp.com/)
